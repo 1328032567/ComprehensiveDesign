@@ -28,9 +28,10 @@
 | 母对母杜邦线      | 1    | 2.5  | [m.tb.cn/h.5BX9oUCLuWUtyXp?tk=JtmwWL5gJUL](https://m.tb.cn/h.5BX9oUCLuWUtyXp?tk=JtmwWL5gJUL) | 53.1  |                                |
 | PCA9685舵机驱动板 | 1    | 14.8 | https://m.tb.cn/h.5y7PKBymEXQCl2j?tk=jdG5WL5S1WH             | 67.9  | 别的比他便宜的算上邮费都比他贵 |
 | hsp-94286         | 1    | 380  | [m.tb.cn/h.5BXyR5WuOjAvBNw?tk=oQnbWL5t5mh](https://m.tb.cn/h.5BXyR5WuOjAvBNw?tk=oQnbWL5t5mh) | 447.9 |                                |
+| micro hdmi 转hdmi | 1    | 25   | [m.tb.cn/h.5B2nJ6nRSGC2uhx?tk=Zga6WLg8wJf](https://m.tb.cn/h.5B2nJ6nRSGC2uhx?tk=Zga6WLg8wJf) | 472.9 |                                |
 | 3D打印零件        |      |      |                                                              |       | 待咨询后确定：大约100~200      |
 
 **剩余**：
 
-244.1元
+219.1元
 
