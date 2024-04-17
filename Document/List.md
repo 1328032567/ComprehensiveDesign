@@ -29,8 +29,10 @@
 | PCA9685舵机驱动板 | 1    | 14.8 | https://m.tb.cn/h.5y7PKBymEXQCl2j?tk=jdG5WL5S1WH             | 67.9  | 别的比他便宜的算上邮费都比他贵 |
 | hsp-94286         | 1    | 380  | [m.tb.cn/h.5BXyR5WuOjAvBNw?tk=oQnbWL5t5mh](https://m.tb.cn/h.5BXyR5WuOjAvBNw?tk=oQnbWL5t5mh) | 447.9 |                                |
 | 3D打印零件        |      |      |                                                              |       | 待咨询后确定：大约100~200      |
+|                   |      |      |                                                              |       |                                |
 | 亚克力收纳箱      | 1    | 38.8 | https://m.tb.cn/h.gaBO4LD4BSA4MCN?tk=gJOQWrdpikd CZ0016      | 486.7 |                                |
 | 运费              |      | 30   | 见hsp94286                                                   | 516.7 |                                |
+| 树莓派            | 1    | 308  |                                                              | 824.7 |                                |
 
 **剩余**：
 
