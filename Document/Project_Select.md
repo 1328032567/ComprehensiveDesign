@@ -1,9 +1,4 @@
-每个人写出每个项目的好处坏处至少一条
-大家也合力找找别的全流程开源项目，以下面的格式列举好处坏处
-Format:1.花费少（丁）
-
-Project A:https://github.com/Mingrui-Yu/RaspberryCar?tab=readme-ov-file
-
+Project A:智能识别移动小车
 Advantages:
 1. 所有零件已打包只需组装
 2. 车上有预留的位置安装外设
@@ -14,10 +9,9 @@ Disadvantages：
 1. 流程不够详细，代码难懂
 2. 无相关的活跃论坛
 3. 遇到问题很难解决
-4.每个阶段具体的操作不够明确
+4. 每个阶段具体的操作不够明确
 
-Project B:http://docs.donkeycar.com
-
+Project B:DonkeyCar(驴车)
 Advantages:
 1. 内容从选材到成品，具体操作详细
 2. 项目知名度高
@@ -26,5 +20,5 @@ Advantages:
 
 Disadvantages：
 1. 小车费用贵，如果DIY需要自己选配零件，担心耗时长
-3. 内容可能过多，时间可能不够
-4. 组装过程出现问题不好求助
+2. 内容可能过多，时间可能不够
+3. 组装过程出现问题不好求助
