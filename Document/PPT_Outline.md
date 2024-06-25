@@ -26,3 +26,11 @@ total 16 pages
     解决2：通过github new issue，得到项目负责人解答
 6、成果展示(4)
     定速循迹 + 自主循迹 + Web控制 + 图像采集
+资料来源：
+    1、donkeycar源代码
+    2、donkeycar文档
+    3、树莓派文档
+    4、Google搜索
+    5、软件代码
+    6、工具官方网站描述
+    7、Wiki百科
