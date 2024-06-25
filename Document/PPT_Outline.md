@@ -1,6 +1,6 @@
 total 16 pages
 项目名：CV树莓派小车
-PPT字体：等线（中文字体） + Mono（代码字体） + Times New Roman（英文字体）
+PPT字体：微软雅黑（中文字体） + Mono（代码字体） + Times New Roman（英文字体）
 按照开发顺序选
 1、项目概述(1)nu
      web控制 + 采集数据 + 自主循迹 + 图像识别
